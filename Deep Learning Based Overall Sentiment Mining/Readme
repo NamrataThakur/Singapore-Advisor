@@ -1,1 +1,1 @@
-Ipython Notebook containing Bert fine tuning code, pickle file for focal loss class weights, saved bert tokenizer, saved best bert model
+Ipython Notebook containing Bert fine-tuning code, pickle file for focal loss class weights, saved Bert tokenizer, saved best Bert model. The Ipython notebook also contains the code for ensembling the machine learning and Bert-based prediction results.
