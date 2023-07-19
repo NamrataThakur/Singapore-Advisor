@@ -3,4 +3,4 @@ Detailed sentiment analysis (overall and aspect-based sentiment analysis) on maj
 
 Application Demo Video:
 
-([https://www.youtube.com/watch?v=ek1j272iAmc](https://youtu.be/Ts2i9pjQF5Q)https://youtu.be/Ts2i9pjQF5Q)
+[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)] (https://youtu.be/Ts2i9pjQF5Q)
